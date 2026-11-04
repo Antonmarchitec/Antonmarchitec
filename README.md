@@ -4,57 +4,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5D4&height=220&section=header&text=ANTOM&fontSize=70&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
 </p>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hey+There!+👋;+I'm+Ujjwal!;" />
-</h1>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZxZGt6bnZuOGxmcjd3YmlqOG42ZjRoNWw3c2Q3MWxnYnJqaXY4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-</a>
-<h3 align="center">A passionate Software Developer from India 🇮🇳</h3>
-
-<p align="left"> <a href="https://twitter.com/ujjwalbhatt09" target="blank"><img src="https://img.shields.io/twitter/follow/ujjwalbhatt09?logo=twitter&style=for-the-badge" alt="ujjwalbhatt09" /></a> </p>
-
-🔭 I’m currently working on **My side projects**
-
-🌱 I’m currently learning **MERN stack**
-
-👯 I’m looking to collaborate on **Interesting open source projects**
-
-💬 Ask me about **Java, SpringBoot, Express**
-
-📫 How to reach me? **Drop me an email at ujjwalbhatt09@gmail.com**
-
-⚡ Fun fact **Debugging was coined after removing bugs from computer hardware.**
-
-<h3 align="center">Connect with me 🌐</h3>
-<p align="center">
-<a href="https://twitter.com/ujjwalbhatt09" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter&theme=light" alt="ujjwalbhatt09" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/ujjwal-bhatt-b256271a3" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="ujjwal-bhatt-b256271a3" height="40" width="40" /></a>
-<a href="https://instagram.com/_ujjwalbhatt" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram&theme=light" alt="_ujjwalbhatt" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/ujjwalbhatt09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ujjwalbhatt09" height="40" width="40" /></a>
-</p>
-
-<hr/>
- 
-</div>
-
-
-<hr/>
 
 
 
 
 
-
-**About Me!**
-
-- 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
-- 🌱 I’m currently developing .NET Core projects and Data Science projects
-- 🤔 My interest lies in back-end web development, Data Science, Machine Learning, Deep Learning and Flutter
-- 💬 Ask me about anything from [contact@fethitekyaygil.com](mailto:contact@fethitekyaygil.com), I love to answer!
-- 🌐 You can see my personal website through [here](https://www.fethitekyaygil.com)
 
 
 <p style="display: inline-block;" align="center">
@@ -161,17 +115,129 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5D4&height=220&section=header&text=ANTOM&fontSize=70&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
+</p>
+
+<!-- INTRO -->
+<h1 align="center">Hey, I'm Antom 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Web+Developer+from+Bolivia+%F0%9F%87%A7%F0%9F%87%B4;Frontend+Developer;JavaScript+Enthusiast;Building+Ideas+Into+Reality;Human+Creativity+%2B+AI" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Antonmarchitec">
+    <img src="https://img.shields.io/github/followers/Antonmarchitec?label=Followers&style=for-the-badge&color=00F5D4&labelColor=000000"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Antonmarchitec&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
+<!-- ABOUT -->
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  I'm a Web Developer passionate about creating modern,
+  responsive and interactive digital experiences.
+</p>
+
+<p align="center">
+  I combine my development skills with Artificial Intelligence
+  to optimize workflows, improve code and bring creative ideas to life.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-00F5D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Creativity-00F5D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-00F5D4?style=flat-square"/>
+</p>
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,scss,git,github,vscode&theme=dark"/>
+</p>
+
+---
+
+<!-- PROJECTS -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 🌾 Sistema de Gestión de Cosechas
+
+Web application for managing crop production stages, schedules and progress.
+
+</td>
+<td width="50%" align="center">
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing projects, skills and web development services.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Antonmarchitec&theme=tokyonight&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
+</p>
+
+---
+
+<!-- CONNECT -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/Antonmarchitec">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F5D4"/>
+  </a>
+  <a href="https://www.facebook.com/DigitizingCode">
+    <img src="https://img.shields.io/badge/Digitizing_Code-000000?style=for-the-badge&logo=facebook&logoColor=00F5D4"/>
+  </a>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <i>Building ideas into reality, one line of code at a time.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,100:000000&height=120&section=footer"/>
+</p>
+
+
 -----
 Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
 
 Last Edited on: 20/01/2022
 
-<br/>
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
-</div>
-
-<br/>
 
 
