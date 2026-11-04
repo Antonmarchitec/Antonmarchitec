@@ -102,6 +102,10 @@
   </kbd>
 </p>
 
+<br><br>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 
