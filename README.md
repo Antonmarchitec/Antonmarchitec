@@ -168,9 +168,15 @@ My personal portfolio showcasing projects, skills and web development services.
 
 
 -----
-Credits: [Fethi Tekyaygil](https://github.com/TekyaygilFethi)
 
-Last Edited on: 20/01/2022
+---
+
+<p align="center">
+  <i>Designed & Developed with 💙 by Antom</i>
+  <br>
+  <sub>Last Updated: November 2026</sub>
+</p>
+
 
 
 
