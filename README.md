@@ -1,4 +1,8 @@
-![PORTADA EDITABLE PARA YOUTUBE](https://user-images.githubusercontent.com/70084380/169454087-6a3a8301-c3f0-4eb4-a2fd-fd20ea0a8b92.jpg)
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5D4&height=220&section=header&text=ANTOM&fontSize=70&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
+</p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=ujjwalb09&label=Profile%20views&color=0e75b6&style=flat" alt="ujjwalb09" />
 
