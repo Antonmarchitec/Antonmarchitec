@@ -63,10 +63,6 @@
 
 
 
-<a href="https://www.fethitekyaygil.com">
- <img src = "https://github.com/TekyaygilFethi/TekyaygilFethi/blob/main/Entrance.gif">
- </a>
-
 **About Me!**
 
 - 👨🏽‍💻  I’m currently AI Team Lead @ Global AI Hub
