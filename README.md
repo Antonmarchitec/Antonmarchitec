@@ -11,32 +11,75 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5D4&height=220&section=header&text=ANTOM&fontSize=70&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
+</p>
+
+<!-- INTRO -->
+<h1 align="center">Hey, I'm Antom 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Web+Developer+from+Bolivia+%F0%9F%87%A7%F0%9F%87%B4;Frontend+Developer;JavaScript+Enthusiast;Building+Ideas+Into+Reality;Human+Creativity+%2B+AI" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Antonmarchitec">
+    <img src="https://img.shields.io/github/followers/Antonmarchitec?label=Followers&style=for-the-badge&color=00F5D4&labelColor=000000"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Antonmarchitec&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS"/>
+</p>
+
+---
+
+<!-- ABOUT -->
+<h2 align="center">⚡ About Me</h2>
+
+<p align="center">
+  I'm a Web Developer passionate about creating modern,
+  responsive and interactive digital experiences.
+</p>
+
+<p align="center">
+  I combine my development skills with Artificial Intelligence
+  to optimize workflows, improve code and bring creative ideas to life.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-00F5D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Creativity-00F5D4?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-00F5D4?style=flat-square"/>
+</p>
+
+---
+
+<!-- TECH STACK -->
+<h2 align="center">🛠️ Tech Stack</h2>
+
+
+
+---
+
+
 <p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Programming Languages</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /> 
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-plain.svg" />
-  </kbd>
-   <kbd>
-    <kbd>Mobile</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-  </kbd>
+ 
+   
+  
   <kbd>
     <kbd>Front-end</kbd>
     <br>
@@ -102,80 +145,7 @@
 
 ![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TekyaygilFethi&layout=compact&theme=github_dark&langs_count=10&exclude_repo=kasweb">
-<br>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TekyaygilFethi&count_private=true&show_icons=trueline_height=21&theme=github_dark">	
-<br>
-<br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TekyaygilFethi&theme=holi-theme">
-</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5D4&height=220&section=header&text=ANTOM&fontSize=70&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
-</p>
-
-<!-- INTRO -->
-<h1 align="center">Hey, I'm Antom 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=Web+Developer+from+Bolivia+%F0%9F%87%A7%F0%9F%87%B4;Frontend+Developer;JavaScript+Enthusiast;Building+Ideas+Into+Reality;Human+Creativity+%2B+AI" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Antonmarchitec">
-    <img src="https://img.shields.io/github/followers/Antonmarchitec?label=Followers&style=for-the-badge&color=00F5D4&labelColor=000000"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Antonmarchitec&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS"/>
-</p>
-
----
-
-<!-- ABOUT -->
-<h2 align="center">⚡ About Me</h2>
-
-<p align="center">
-  I'm a Web Developer passionate about creating modern,
-  responsive and interactive digital experiences.
-</p>
-
-<p align="center">
-  I combine my development skills with Artificial Intelligence
-  to optimize workflows, improve code and bring creative ideas to life.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-00F5D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Creativity-00F5D4?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-00F5D4?style=flat-square"/>
-</p>
-
----
-
-<!-- TECH STACK -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,scss,git,github,vscode&theme=dark"/>
-</p>
-
----
 
 <!-- PROJECTS -->
 <h2 align="center">🚀 Featured Projects</h2>
