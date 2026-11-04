@@ -1,31 +1,3 @@
-
-<!-- BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5D4&height=220&section=header&text=ANTOM&fontSize=70&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F5D4&height=220&section=header&text=ANTOM&fontSize=70&fontColor=00F5D4&animation=fadeIn&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descSize=18&descAlignY=60&descColor=ffffff" width="100%"/>
